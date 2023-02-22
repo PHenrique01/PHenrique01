@@ -14,8 +14,10 @@ Tecnologias 👨‍💻
   <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <span>-</span>
   <img align="center" alt="Paulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <span>-</span> 
-  <img align="center" alt="Paulo-RUBY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/>
+  <span>-</span>
+  <img align="center" alt="Paulo-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <span>-</span>
+  <img align="center" alt="Paulo-RUBY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/> 
 </div>
 
 ![snake gif](https://github.com/PHenrique01/PHenrique01/blob/output/github-contribution-grid-snake.svg)
