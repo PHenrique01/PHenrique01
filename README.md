@@ -9,7 +9,7 @@
 </div>
 
 ### Sobre mim ✌️ 
-- 📍 Brasileiro de Maceió - AL.
+- 📍 Brasileiro.
 - 🎓 Estudante do curso de sistemas de informação.
 
 ##
