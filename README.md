@@ -1,7 +1,5 @@
-# Hello World 
-<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
-
-- 🔭 I'm currently studyind on Cesmac.
+![image](https://user-images.githubusercontent.com/100245785/234912822-dfcec0aa-8423-4e64-96a0-52b7eca70416.png)
+ 
 #
 
 <div align="center">
@@ -9,8 +7,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PHenrique01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHenrique01&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<br>
-Tecnologias 👨‍💻
+
+### Sobre mim ✌️ 
+- 📍 Brasileiro de Maceió - AL.
+- 🎓 Estudante do curso de sistemas de informação.
+
+##
+### Tecnologias 👨‍💻
 <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <span>-</span>
