@@ -1,4 +1,4 @@
-![LinkedIn Banner](https://github.com/PHenrique01/PHenrique01/assets/100245785/8f6e04be-441a-4003-bc62-2035eac02955)
+![LinkedIn Banner](https://github.com/PHenrique01/PHenrique01/assets/100245785/4762960b-217a-4b56-8eac-d8725bf23033)
 
 #
 
