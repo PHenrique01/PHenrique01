@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/100245785/234929650-d5c4b309-ad0c-47cc-a56a-298d849876b6.png)
+![LinkedIn Banner](https://github.com/PHenrique01/PHenrique01/assets/100245785/8f6e04be-441a-4003-bc62-2035eac02955)
 
 #
 
