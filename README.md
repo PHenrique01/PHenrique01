@@ -10,18 +10,20 @@
 
 ### Sobre mim ✌️ 
 - 📍 Brasileiro.
-- 🎓 Estudante do curso de sistemas de informação.
+- 🎓 Estudante do curso de sistemas de informação (bacharelado).
 
 ##
-### Tecnologias 👨‍💻
-<div style="display: inline_block"><br>
-  <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <span>-</span>
-  <img align="center" alt="Paulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <span>-</span>
-  <img align="center" alt="Paulo-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <span>-</span>
-  <img align="center" alt="Paulo-RUBY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/> 
-</div>
+## Tecnologias 👨‍💻
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
+
+### Noção em:
+
+[![My Skills](https://skillicons.dev/icons?i=ruby,java)](https://skillicons.dev)
+
+### Ferramenta:
+
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+
 
 ![snake gif](https://github.com/PHenrique01/PHenrique01/blob/output/github-contribution-grid-snake.svg)
