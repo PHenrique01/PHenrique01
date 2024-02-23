@@ -1,4 +1,4 @@
-![LinkedIn Banner](https://github.com/PHenrique01/PHenrique01/assets/100245785/4762960b-217a-4b56-8eac-d8725bf23033)
+![GitHub Banner](https://github.com/PHenrique01/PHenrique01/assets/100245785/d115dd9b-8af9-43e9-b434-639233b08c6d)
 
 #
 
@@ -21,9 +21,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=ruby,java)](https://skillicons.dev)
 
-### Ferramenta:
+### Ferramenta de trabalho:
 
-[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,vscode)](https://skillicons.dev)
 
 
-![snake gif](https://github.com/PHenrique01/PHenrique01/blob/output/github-contribution-grid-snake.svg)
+<!--![snake gif](https://github.com/PHenrique01/PHenrique01/blob/output/github-contribution-grid-snake.svg)-->
