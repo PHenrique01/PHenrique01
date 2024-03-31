@@ -23,7 +23,7 @@
 
 ### Ferramenta de trabalho:
 
-[![My Skills](https://skillicons.dev/icons?i=figma,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,git,github,vscode)](https://skillicons.dev)
 
 
 <!--![snake gif](https://github.com/PHenrique01/PHenrique01/blob/output/github-contribution-grid-snake.svg)-->
