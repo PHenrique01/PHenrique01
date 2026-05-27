@@ -14,10 +14,10 @@
 - 🎓 Graduação em Sistemas de Informação.
 
 ##
+<!--
 ## Tecnologias 👨‍💻
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
-<!--
 ### Noção em:
 
 [![My Skills](https://skillicons.dev/icons?i=ruby,java)](https://skillicons.dev)
