@@ -11,20 +11,20 @@
 -->
 ### Sobre mim ✌️ 
 - 📍 Brasileiro.
-- 🎓 Estudante do curso de sistemas de informação (bacharelado).
+- 🎓 Graduação em Sistemas de Informação.
 
 ##
 ## Tecnologias 👨‍💻
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
-
+<!--
 ### Noção em:
 
 [![My Skills](https://skillicons.dev/icons?i=ruby,java)](https://skillicons.dev)
-
+-->
 ### Ferramenta de trabalho:
 
-[![My Skills](https://skillicons.dev/icons?i=figma,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 
 <!--![snake gif](https://github.com/PHenrique01/PHenrique01/blob/output/github-contribution-grid-snake.svg)-->
