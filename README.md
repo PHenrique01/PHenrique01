@@ -1,6 +1,5 @@
-<!--!
-![GitHub Banner](https://github.com/PHenrique01/PHenrique01/assets/100245785/d115dd9b-8af9-43e9-b434-639233b08c6d)
--->
+<img width="2074" height="518" alt="Image" src="https://github.com/user-attachments/assets/f53ca5e4-3ba4-4847-8455-3b0434fc253e" />
+
 #
 <!--!
 <div align="center">
@@ -12,6 +11,7 @@
 ### Sobre mim ✌️ 
 - 📍 Brasileiro.
 - 🎓 Graduação em Sistemas de Informação.
+- 🎨 UI/UX Designer
 
 ##
 <!--
